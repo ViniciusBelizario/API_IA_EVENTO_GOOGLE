@@ -1,0 +1,2 @@
+flet==0.7.6
+google-cloud-generativeai==0.1.0
